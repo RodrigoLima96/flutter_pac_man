@@ -1,16 +1,19 @@
 # flutter_pac_man
 
-A new Flutter project.
 
-## Getting Started
+## Executar projeto
 
-This project is a starting point for a Flutter application.
+> Passo 1 - Abrir cmd e digitar o comando 'git clone https://github.com/RodrigoLima96/flutter_pac_man'.
 
-A few resources to get you started if this is your first Flutter project:
+> Passo 2 - Digitar comando 'cd flutter_pac_man' (abrir pasta em que o arquivo foi baixado).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Passo 3 - Digitar comando 'flutter pub get' (Baixar todas as dependências).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Passo 4 - Digitar comando 'flutter run' (Rodar o projeto diretamente)
+
+
+## OU
+
+> Passo 4 - Digitar comando 'code .' (Atalho para abrir o VsCode) ou abrir a pasta do projeto manualmente.
+
+> Passo 5 - Executar o projeto em um dispositivo que esteja conectado.
